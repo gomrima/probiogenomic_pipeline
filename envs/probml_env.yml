@@ -1,0 +1,14 @@
+name: probml_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - xgboost>=2.0
+  - openpyxl
+  - pip
+

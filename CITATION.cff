@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: Cite this software if you use the Probiogenomic Pipeline V4 workflow.
+title: Probiogenomic Pipeline V4 final source package
+version: 4.0.0
+date-released: 2026-06-13
+authors:
+  - family-names: Gomri
+    given-names: Mohamed Amine
+    name-prefix: Dr.
+    affiliation: >-
+      Department of Biotechnology, Institute of Nutrition, Food and Agri-Food
+      Technologies (INATAA), University of Constantine 1 Frères Mentouri
+      (UC1FM), 25000 Constantine, Algeria
+    email: gomrima@umc.edu.dz
+    orcid: "https://orcid.org/0000-0003-0347-3412"
+repository-code: "https://github.com/gomrima/probiogenomic_pipeline"
+license: MIT
+references:
+  - type: article
+    title: >-
+      Bridging the gap between probiotic genomic potential and research
+      priorities beyond the survival core
+    authors:
+      - family-names: Gomri
+        given-names: Mohamed Amine
+      - family-names: El Hadef El Okki
+        given-names: Mohamed
+      - family-names: Ounissi
+        given-names: Nour El Houda
+      - family-names: Bachtarzi
+        given-names: Nadia
+      - family-names: Meradji
+        given-names: Meriem
+    journal: World Journal of Microbiology and Biotechnology
+    year: 2026
+    volume: 42
+    issue: "5"
+    start: 229
+    notes: >-
+      Reference publication for the core probiotic marker database used by
+      module 10. DOI, volume, and article number confirmed via Crossref on
+      2026-06-15.
+    doi: 10.1007/s11274-026-04967-1

@@ -1,0 +1,33 @@
+# Normalize line endings for all text files to LF on checkout.
+# This prevents CRLF issues when the repository is cloned or archived
+# on a Windows host and then transferred to Linux.
+
+* text=auto eol=lf
+
+# Explicitly enforce LF for files that must be LF on the Linux target
+*.sh    text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.tsv   text eol=lf
+*.csv   text eol=lf
+*.cff   text eol=lf
+
+# Binary files - do not touch line endings
+*.dmnd  binary
+*.hmm   binary
+*.h3f   binary
+*.h3i   binary
+*.h3m   binary
+*.h3p   binary
+*.zip   binary
+*.gz    binary
+*.tar   binary
+*.png   binary
+*.jpg   binary
+*.xlsx  binary
+*.docx  binary
+*.pptx  binary
+*.svg   binary

@@ -1,0 +1,11 @@
+name: epssmash_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - antismash
+  - hmmer
+  - pip
+
