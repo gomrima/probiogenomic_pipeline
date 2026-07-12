@@ -42,7 +42,7 @@ under its own terms.
 | 02 | VFDB | Liu et al. 2022, Nucleic Acids Res, 10.1093/nar/gkab1107 |
 | 03 | TASmania | Akarsu et al. 2019, PLoS Comput Biol, 10.1371/journal.pcbi.1006946 |
 | 05 | DBETH | Chakraborty et al. 2012, Nucleic Acids Res, 10.1093/nar/gkr942 |
-| 05 | PAT | PAT database, Nucleic Acids Res 2023, 10.1093/nar/gkac829 |
+| 05 | PAT | Liu Y et al. 2023, Nucleic Acids Res 51(D1):D452-D459, 10.1093/nar/gkac879
 | 12 | dbCAN3 | Zheng et al. 2023, Nucleic Acids Res 51(W1):W115-W121, 10.1093/nar/gkad328 |
 
 ## Internal database (module 10)
